@@ -1,0 +1,17 @@
+{
+  "name": "web3wallet",
+  "version": "1.0.0",
+  "description": "web3 wallet with erc20 tocken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammed anshif p",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.3.1",
+    "nodejs": "^0.0.0",
+    "web3": "^4.2.0"
+  }
+}
